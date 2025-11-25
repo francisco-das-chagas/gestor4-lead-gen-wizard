@@ -38,7 +38,7 @@ export const LeadForm = () => {
 
     // --- CONFIGURAÇÃO DO WHATSAPP ---
     // 1. COLOQUE SEU NÚMERO AQUI (formato: 55 + DDD + NUMERO, sem traços ou espaços)
-    const phoneCompany = '8893832512'
+    const phoneCompany = '558893832512'
 
     // 2. Traduzindo o valor do faturamento para ficar bonito na mensagem
     const revenueMap: Record<string, string> = {
